@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "message": "Success Get Domestic Destinations",
+    "code": 200,
+    "status": "success"
+  },
+  "data": [
+    {
+      "id": 58931,
+      "label": "SUTI SEMARANG, SUTI SEMARANG, BENGKAYANG, KALIMANTAN BARAT, 79283"
+    },
+    {
+      "id": 1024,
+      "label": "SEMARANG TENGAH, KOTA SEMARANG, JAWA TENGAH, 50131"
+    }
+  ]
+}
